@@ -3,7 +3,14 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\rizki\Downloads\E-Learning Student Adaptability\students_adaptability_level_online_education.csv">
+        <entry key="C:\Users\rizki\Downloads\Online Education\ONLINE EDUCATION SYSTEM REVIEW.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Dataset\students_adaptability_level_online_education.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
